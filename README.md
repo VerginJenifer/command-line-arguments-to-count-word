@@ -21,6 +21,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
+![Screenshot 2023-12-29 044105](https://github.com/VerginJenifer/command-line-arguments-to-count-word/assets/136251012/36f9ce6d-6dfc-40b1-aef0-59684a47e0aa)
 
 
 ## RESULT:
