@@ -29,7 +29,10 @@ print("Total Words:",len(words))
 ```
 ### OUTPUT:
 
-![Screenshot 2023-12-29 044105](https://github.com/VerginJenifer/command-line-arguments-to-count-word/assets/136251012/36f9ce6d-6dfc-40b1-aef0-59684a47e0aa)
+![image](https://github.com/VerginJenifer/command-line-arguments-to-count-word/assets/136251012/ad1b8ee9-1898-473b-a963-5e1b565e4780)
+
+
+![image](https://github.com/VerginJenifer/command-line-arguments-to-count-word/assets/136251012/d54b51cf-4f02-4010-8ab5-3f0ebff5bc2e)
 
 
 ## RESULT:
